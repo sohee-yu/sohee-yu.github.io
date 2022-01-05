@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "[Oracle]Data Schema와 export - SQLDeveloper"
+categories: DBMS
+tag: [Oracle, SQLDeveloper]
 ---
 
 # Data Schema와 export
