@@ -3,7 +3,7 @@ categories: JAVA
 tag: [java]
 ---
 
-## [JAVA] ==와 equals() 차이
+## [JAVA] == 와 equals() 차이
 
 - ==
   - 항등 연산자(Operator)
